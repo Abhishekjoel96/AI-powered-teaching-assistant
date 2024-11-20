@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env

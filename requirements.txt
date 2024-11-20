@@ -1,0 +1,8 @@
+openai
+streamlit
+youtube-transcript-api
+pydub
+PyPDF2
+python-pptx
+ratelimit
+python-dotenv
